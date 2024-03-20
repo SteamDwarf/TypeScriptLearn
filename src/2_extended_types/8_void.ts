@@ -24,3 +24,5 @@ const f2: voidFunc = () => {
 }
 
 const b = f2();
+
+export {};
